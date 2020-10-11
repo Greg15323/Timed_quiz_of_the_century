@@ -1,0 +1,56 @@
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+#nav {
+    display: block;
+    background-color:white;
+    display:inline-block;
+    width: 100vw;
+    border: 5px;
+    border-radius: 5px;
+    margin: 6px;
+}
+
+body {
+    font-family: ;
+    background-color: ;
+}
+
+#quizBody {
+    text-align: ;
+    padding: ;
+}
+
+h4 {
+    padding: ;
+}
+
+a {
+    text-decoration: ;
+    color: ;
+}
+
+button {
+    border: ;
+    background-color: ;
+    color: ;
+    border-radius: ;
+    padding: ;
+    font-size: ;
+    font-family: ;
+    margin: ;
+}
+
+button:hover {
+    transition-duration: ;
+    background-color: ;
+}
+
+#quiz {
+    text-align: ;
+}
