@@ -10,14 +10,14 @@
     display: block;
     background-color:white;
     display:inline-block;
-    width: 100vw;
-    border: 5px;
+    width: 98vw;
+    border: 3px solid grey;
     border-radius: 5px;
     margin: 6px;
 }
 
 body {
-    font-family: ;
+    font-family: sans-serif;
     background-color: white;
 }
 
@@ -40,7 +40,7 @@ button {
     background-color: blue;
     color: black;
     border-radius: 5px;
-    padding: 10px, 8px, 10px, 8px;
+    padding: 10px, 16px, 10px, 16px;
     font-size: 17px;
     font-family: ;
     margin: 4px;
@@ -52,5 +52,5 @@ button:hover {
 }
 
 #quiz {
-    text-align: ;
+    text-align: center;
 }
