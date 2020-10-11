@@ -37,7 +37,7 @@ a {
 
 button {
     border: ;
-    background-color: blue;
+    background-color: rgb(88, 88, 202);
     color: black;
     border-radius: 5px;
     padding: 10px, 16px, 10px, 16px;
@@ -48,7 +48,7 @@ button {
 
 button:hover {
     transition-duration: .5s;
-    background-color: ;
+    background-color: lightslategray;
 }
 
 #quiz {
