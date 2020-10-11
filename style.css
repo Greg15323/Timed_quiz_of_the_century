@@ -18,36 +18,36 @@
 
 body {
     font-family: ;
-    background-color: ;
+    background-color: white;
 }
 
 #quizBody {
-    text-align: ;
-    padding: ;
+    text-align: center;
+    padding: 12vh;
 }
 
 h4 {
-    padding: ;
+    padding: 10px, 8px, 10px, 8px;
 }
 
 a {
     text-decoration: ;
-    color: ;
+    color: black;
 }
 
 button {
     border: ;
-    background-color: ;
-    color: ;
-    border-radius: ;
-    padding: ;
-    font-size: ;
+    background-color: blue;
+    color: black;
+    border-radius: 5px;
+    padding: 10px, 8px, 10px, 8px;
+    font-size: 17px;
     font-family: ;
-    margin: ;
+    margin: 4px;
 }
 
 button:hover {
-    transition-duration: ;
+    transition-duration: .5s;
     background-color: ;
 }
 
