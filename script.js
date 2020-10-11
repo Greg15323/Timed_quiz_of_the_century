@@ -46,3 +46,15 @@ timer = setInterval(function() {
 
 next();
 }
+
+function endGame() {
+    clearInterval(timer);
+
+    var quizContent = `
+    <h2>All done!</h2>
+    <h3>Your final score is ` + score + ` /100!<h3>
+    <input type="text" id="name" placeholder="First Name">
+    <button onclick="setScore()">Set Score!</button>`;
+
+    document.getElementById("quizBody").innerHTML = quizContent;
+}
